@@ -1,8 +1,8 @@
-#  [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+modella-couchdb
+===============
+refer to [modella-pouchdb](https://github.com/staygrimm/modella-pouchdb)
 
-> The best module ever.
-
-
+not finish yet
 ## Install
 
 ```sh
